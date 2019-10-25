@@ -7,4 +7,4 @@
 - Google Cloud Functions
 - Google Cloud Pub/Sub
 - Google Cloud Scheduler
-- Slack Webhook Integration
+- Slack incoming webhook
